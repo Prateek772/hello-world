@@ -16,7 +16,7 @@
 
 <body>
 <h1 style="color:blue;"> Hello! Welcome to our DevOps Project  </h1>
-<h1 style="color:blue;"> Version: 1.1 - Integrated Jenkins with Git, Maven and Tomcat Server to automate Java Web Application - Keep learning </h1>
+<h1 style="color:blue;"> Version: 1.1 - Automated the integration of Jenkins with Git, Maven and Tomcat Server to run Java Web Application - Keep learning </h1>
 </body>
 </html>
 
