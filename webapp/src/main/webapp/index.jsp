@@ -11,7 +11,7 @@
         p {text-align: center;}
         div {text-align: center;}
 
-        .red_color{color: green}
+        .green_color{color: green}
     </style>
 
 </head>
